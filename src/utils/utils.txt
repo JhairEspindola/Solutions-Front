@@ -1,0 +1,3 @@
+Guarda funciones de apoyo puras y reutilizables que realizan tareas específicas,
+como formatear fechas, transformar cadenas de texto, realizar cálculos matemáticos
+o validar correos electrónicos.

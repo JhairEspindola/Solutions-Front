@@ -1,0 +1,3 @@
+Almacena archivos estáticos y recursos multimedia como imágenes
+(PNG, SVG), íconos, fuentes tipográficas y hojas de estilo globales
+(CSS/SCSS)

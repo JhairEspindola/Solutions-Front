@@ -1,0 +1,2 @@
+Son funciones que permiten extraer, encapsular y reutilizar lógica de estado o efectos secundarios
+para no repetir código entre diferentes componentes.

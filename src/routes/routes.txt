@@ -1,0 +1,4 @@
+Define y centraliza la configuración de navegación. 
+Aquí se establece qué URLs cargan qué páginas 
+específicas y se maneja la lógica de control de acceso 
+(como rutas públicas frente a rutas privadas para usuarios autenticados).

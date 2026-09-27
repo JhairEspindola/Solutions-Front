@@ -1,0 +1,2 @@
+Encapsula toda la lógica de comunicación con el exterior. 
+En esta carpeta se configuran las peticiones HTTP a APIs

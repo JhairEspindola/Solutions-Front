@@ -1,0 +1,1 @@
+Agrupa los componentes principales que representan pantallas completas de la aplicación.
