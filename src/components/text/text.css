@@ -1,0 +1,24 @@
+.eyebrow {
+  margin: 0 0 16px;
+  color: var(--orange-500);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+}
+
+.titulo {
+  max-width: 680px;
+  margin: 0;
+  color: var(--green-900);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 1.04;
+  letter-spacing: -0.055em;
+}
+
+.subtitulo {
+  max-width: 560px;
+  margin: 22px 0 0;
+  color: var(--muted);
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  line-height: 1.6;
+}
